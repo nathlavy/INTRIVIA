@@ -10,3 +10,6 @@ Sangat seru dan memberi banyak wawasan untuk saya
 
 ## Kesan Pesan Cluster 19 Sejauh Ini 
 Sangat seru, teman-temannya sangat supportif, dan mentornya juga baik
+
+## Harapan Kuliah 
+Jago data analyst, masuk data science bcc, juara PIMNAS, cumlaude, no skripsi
